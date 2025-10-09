@@ -9,7 +9,7 @@ btn.addEventListener("click", function(){
     bulb.style.backgroundColor = "red"
     count=1
     btn.innerHTML="green"
-    }else{ bulb.style.backgroundColor = "green"
+    }else{ bulb.style.backgroundColor = "blue"
     count=0
     btn.innerHTML="Red"
     }
